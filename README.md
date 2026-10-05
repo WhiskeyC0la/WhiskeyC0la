@@ -52,4 +52,4 @@ The project includes:
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/ievgen-nieizviestnykh)
+[LinkedIn](https://www.linkedin.com/in/ievgen-nieizviestnykh)
