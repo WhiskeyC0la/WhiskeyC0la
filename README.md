@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ievgen 👋
 
-<!--
-**WhiskeyC0la/WhiskeyC0la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend / Full Stack Developer based in Helsinki, Finland.
 
-Here are some ideas to get you started:
+I'm currently focused on backend development and building my skills with
+JavaScript, Node.js, Express, React and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I'm working with
+
+- JavaScript
+- Node.js
+- Express
+- React
+- REST APIs
+- PostgreSQL
+- Sequelize
+- MongoDB / Mongoose
+- Git / GitHub
+- Vitest, Supertest and Playwright
+
+## Currently learning
+
+I'm continuing my studies through the University of Helsinki's
+**Full Stack Open** course and currently focusing on relational databases,
+PostgreSQL and backend development.
+
+## Featured project
+
+### Bloglist
+
+A full stack web application developed and progressively extended during
+Full Stack Open.
+
+The project includes:
+
+- React frontend
+- Node.js / Express backend
+- REST API
+- JWT authentication
+- MongoDB / Mongoose
+- automated backend, frontend and end-to-end testing
+- ongoing migration to PostgreSQL using Sequelize
+
+➡️ [View the Full Stack Open repository](https://github.com/WhiskeyC0la/fullstackopen)
+
+## Certificate
+
+**Full Stack Open — University of Helsinki**  
+7 ECTS — Grade 5/5
+
+## Connect
+
+[LinkedIn](www.linkedin.com/in/ievgen-nieizviestnykh)
