@@ -48,6 +48,8 @@ The project includes:
 **Full Stack Open — University of Helsinki**  
 7 ECTS — Grade 5/5
 
+[View certificate](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fi/e089788cf4fdb4a258695e10f1398a49)
+
 ## Connect
 
 [LinkedIn](www.linkedin.com/in/ievgen-nieizviestnykh)
